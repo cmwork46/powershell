@@ -1,0 +1,50 @@
+2019-06-23 00:59:30,794 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:00:18,479 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:04:15,803 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:05:55,453 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:07:06,637 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:09:19,609 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:10:04,312 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:24:47,756 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:24:47,813 [Pipeline Execution Thread] ERROR FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - aaa
+2019-06-23 01:40:23,557 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:42:32,776 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:44:06,919 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:44:56,911 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:45:59,885 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:46:40,108 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:48:07,042 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:48:45,273 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:52:28,845 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:54:05,811 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:55:02,849 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 01:59:28,511 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 02:03:05,427 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 02:05:13,925 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 02:06:51,526 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 02:07:03,434 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 02:08:18,361 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:19:44,754 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:30:35,424 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:33:15,221 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:34:39,584 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:35:31,832 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:35:54,498 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:37:20,043 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:37:33,461 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 10:37:47,833 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Move upload to temp
+2019-06-23 12:29:59,719 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Convert Shift-JIS to UTF-8N, and copy upload CSV to backup CSV
+2019-06-23 13:56:10,088 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy upload CSV to backup CSV
+2019-06-23 13:57:25,504 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy upload CSV to backup CSV
+2019-06-23 13:58:23,989 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy upload CSV to backup CSV
+2019-06-23 13:58:59,553 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy upload CSV to backup CSV
+2019-06-23 14:00:13,877 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy upload CSV to backup CSV
+2019-06-23 14:09:48,038 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy upload CSV to backup CSV
+2019-06-23 15:14:55,045 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Convert Shift-JIS to UTF-8N, and copy upload CSV to backup CSV
+2019-06-23 15:15:15,743 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy upload CSV to backup CSV
+2019-06-23 16:33:09,569 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Convert Shift-JIS to UTF-8N, and copy upload CSV to backup CSV
+2019-06-23 16:33:26,719 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy upload CSV to backup CSV
+2019-06-23 17:26:10,636 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Convert Shift-JIS to UTF-8N, and copy upload CSV to backup CSV
+2019-06-23 17:26:11,616 [Pipeline Execution Thread] ERROR FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Upload failured
+2019-06-23 17:26:11,616 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy temp CSV to upload CSV
+2019-06-23 17:26:11,617 [Pipeline Execution Thread] INFO  FT_010_log.ps1 DESKTOP-C4RMNPG\cmcm4 - Copy temp CSV to reject CSV
